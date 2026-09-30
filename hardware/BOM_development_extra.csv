@@ -1,0 +1,8 @@
+Component,Qty,Unit price (BDT),Total (BDT),Note
+UA741 op-amp,1,15,15,First prototype
+BC548 / BC549 transistors,3,5,15,First prototype
+L14F1 phototransistor,1,20,20,Detector trial (rejected)
+LM386 (spare),1,20,20,Spare
+Additional capacitors of superseded values,20,2,40,Filter redesign
+Additional loudspeaker,1,60,60,Spare
+TOTAL,,,170,

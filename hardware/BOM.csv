@@ -1,0 +1,24 @@
+Component,Qty,Unit price (BDT),Total (BDT),Used in
+TL072 dual op-amp,2,25,50,Transmitter preamp/filter; receiver amp/filter
+LM358 dual op-amp,1,15,15,Transmitter constant-current laser driver
+LM386 audio power amplifier,1,20,20,Receiver output stage
+BD135 NPN transistor,1,15,15,Laser driver pass transistor
+BPW34 photodiode,1,50,50,Receiver detector
+"Laser diode module, 650 nm 5 mW",1,40,40,Optical source
+Resistors (assorted values),30,1,30,Both boards
+Ceramic / film capacitors (assorted),20,2,40,Both boards
+Electrolytic capacitors (10-1000 uF),13,5,65,Both boards and supply
+"Potentiometer, 10 kOhm",1,20,20,Receiver volume control
+3.5 mm audio socket,1,15,15,Transmitter input
+3.5 mm audio cable,1,50,50,Audio source to transmitter
+"Loudspeaker, 8 Ohm 0.5 W",1,60,60,Receiver output
+Electret microphone,1,20,20,Alternative live-audio input
+Breadboard,2,120,240,Transmitter and receiver
+Jumper wire (one box),1,150,150,Both boards
+"Step-down transformer, 12 V 1 A",1,150,150,Bench power supply
+LM317 adjustable regulator,1,25,25,Bench power supply
+7809 fixed regulator,1,15,15,Bench power supply (9 V rail)
+1N4007 rectifier diode,5,3,15,Bench power supply bridge
+Indicator LED,2,3,6,Power indicators
+9 V battery with snap connector,2,40,80,Portable supply for each board
+TOTAL,,,1171,

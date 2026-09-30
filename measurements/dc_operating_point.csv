@@ -1,0 +1,7 @@
+Quantity,Measured value,Instrument / method
+Transmitter supply voltage,8.83 V,Multimeter
+Receiver supply voltage,7.96 V,Multimeter
+Receiver supply current,10.48 mA,Multimeter
+Laser quiescent (bias) current,7.75 mA,V across R11 / 38 Ohm
+Laser peak current with signal,~10 mA,V across R11 / 38 Ohm
+Laser forward voltage,2.06 V,Multimeter

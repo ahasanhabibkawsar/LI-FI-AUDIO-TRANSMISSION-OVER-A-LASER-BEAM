@@ -1,0 +1,7 @@
+Quantity,Simulated (PSpice),Measured,Comment
+Mid-rail reference,4.500 V,~4.4 V,Agrees
+Driver input bias (U2 pin 3),1.154 V,~1.15 V,Agrees
+Laser bias current,30.4 mA,7.75 mA,Large deviation - real module Vf and series resistance differ from ideal model
+Upper -3 dB frequency,~10.7 kHz,~12 kHz,Within +/-10% capacitor tolerance
+Lower -3 dB frequency,~154 Hz,~40 Hz,Coarse scope reading and capacitor tolerance
+Waveform fidelity at 1 kHz,No visible clipping,No visible clipping,Agrees

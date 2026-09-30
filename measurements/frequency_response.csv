@@ -1,0 +1,7 @@
+Test frequency,Observation,Scope capture
+40 Hz,Lower band edge (~-3 dB),../images/measurements/frequency_response/40Hz.jpg
+50 Hz,In band,../images/measurements/frequency_response/50Hz.jpg
+150 Hz,In band,../images/measurements/frequency_response/150Hz.jpg
+2.25 kHz,Flat mid-band,../images/measurements/frequency_response/2250Hz.jpg
+12 kHz,Upper band edge (~-3 dB),../images/measurements/frequency_response/12kHz.jpg
+13 kHz,Beyond cut-off - amplitude falls and noise dominates,../images/measurements/frequency_response/13kHz.jpg

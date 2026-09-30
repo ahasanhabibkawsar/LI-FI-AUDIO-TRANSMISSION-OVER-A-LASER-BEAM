@@ -1,0 +1,4 @@
+Detector arrangement,Observed behaviour,Outcome
+L14F1 phototransistor,"Strong output but dull, muffled sound; slow response",Rejected - insufficient bandwidth
+"BPW34 photodiode, unshielded","Clearer treble, but sensitive to room lighting",Improved
+BPW34 photodiode with black shroud,"Clean audio, much less affected by ambient light",Adopted for the final build

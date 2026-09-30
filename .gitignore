@@ -1,0 +1,45 @@
+# ---- macOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ---- Windows ----
+Thumbs.db
+desktop.ini
+
+# ---- Office temp / lock files ----
+~$*
+*.tmp
+
+# ---- OrCAD / PSpice generated output ----
+*.dat
+*.out
+*.log
+*.opj.lck
+*.DSN.lck
+*.DBK
+*.dbk
+*.OBK
+*.obk
+*.bak
+*.sim.bak
+*.$$$
+**/PSpiceFiles/**/*.prb.bak
+*.mrk
+*.oLB.lck
+*.ind
+
+# ---- LTspice (if used) ----
+*.raw
+*.op.raw
+*.net.bak
+
+# ---- Editors ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Local helper (not part of the repo) ----
+GITHUB_UPLOAD_GUIDE.md
+LiFi_GitHub_Repo.zip
