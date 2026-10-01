@@ -201,18 +201,6 @@ Full BOM: [`hardware/BOM.csv`](hardware/BOM.csv) · Development extras: [`hardwa
     └── gantt_timeline.png
 ```
 
-## Team
-
-| Student ID | Name | Contribution |
-|---|---|---|
-| 2206119 | Md. Ahasan Habib Kawsar | Circuit design, PSpice simulation, laser driver, filter design, integration, debugging, demonstration (project lead) |
-| 2206111 | Md. Mahedi Hasan Saikot | Data collection, oscilloscope measurements, frequency-response testing, slide revision |
-| 2206099 | MD. Saruwer Hossan Pial | Receiver board assembly and soldering |
-| 2206104 | Mustasin Rahman Ador | Transmitter board assembly, optical alignment and mounting |
-| 2206120 | Md. Imran Shajid | Component procurement, BOM and cost analysis |
-| 2206121 | Afnan Bin Obaid | Report writing, slides, demo video |
-
-**Course instructors:** Rafid Hassan Palash (Lecturer, Dept. of EEE, BUET) · Ashik Abrar Naeem (Teaching Assistant, Dept. of EEE, BUET)
 
 ## References
 
